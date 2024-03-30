@@ -4,7 +4,7 @@ layout: default
 
 Text can be <b></b>bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](https://public.tableau.com/shared/KS2TBTYK3?:display_count=n&:origin=viz_share_li).
 
 There should be whitespace between paragraphs.
 
