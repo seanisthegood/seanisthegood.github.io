@@ -1,7 +1,7 @@
 
 # A Data Guy
 
-Technical Skills: Python, Pandas, SQL, PHP, Google AppScripts
+**Technical Skills: Python, Pandas, SQL, PHP, Google AppScripts**
 
 ## Education
 
