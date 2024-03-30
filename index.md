@@ -1,37 +1,32 @@
 
+# The Data Guy
 
+Technical Skills: Python, Pandas, SQL, PHP, Google AppScripts
 
-There should be whitespace between paragraphs.
+## Education
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+*  Flatiron School Data Science Program
+*  Hunter College
+*  Upright Citizens Brigade
 
-# Hello
+## Work Experience
 
-Welcome to my Data Science repo. I've provided links to the work I've done in and outside of bootcamps. I also have some analysis work. 
+* Esme Greenpoint
+* Songs for Help Podcast
 
-## Header 2
+## Personal Projects
+
+* House Guessers
+* Sting Eras Shirt
+* [Tableau Work](https://public.tableau.com/shared/KS2TBTYK3?:display_count=n&:origin=viz_share_li).
+
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Tableau Work
-[Link to another page](https://public.tableau.com/shared/KS2TBTYK3?:display_count=n&:origin=viz_share_li).
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[Link to another page]
 
 #### Header 4
 
