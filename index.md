@@ -1,5 +1,5 @@
 
-# The Data Guy
+# A Data Guy
 
 Technical Skills: Python, Pandas, SQL, PHP, Google AppScripts
 
