@@ -9,6 +9,13 @@ Technical Skills: Python, Pandas, SQL, PHP, Google AppScripts
 *  Hunter College
 *  Upright Citizens Brigade
 
+## Data Science Projects
+
+*  Movie Anylsis
+*  King County Home Prices
+*  Customer Churn Project
+*  Twitter Sentiment Project
+
 ## Work Experience
 
 * Esme Greenpoint
