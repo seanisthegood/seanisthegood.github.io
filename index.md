@@ -11,7 +11,7 @@
 
 ## Data Science Projects
 
-*  Movie Anylsis
+*  Movie Analysis
 *  King County Home Prices
 *  [Customer Churn Project](https://github.com/seanisthegood/Customer_Churn_Project)
 *  Twitter Sentiment Project
