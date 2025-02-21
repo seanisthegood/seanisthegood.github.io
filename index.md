@@ -5,8 +5,8 @@
 
 ## Education
 
-*  Flatiron School Data Science Program
-*  Hunter College
+*  LaGuardia Community College
+*  Flatiron School
 *  Upright Citizens Brigade
 
 ## Data Science Projects
