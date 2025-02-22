@@ -25,4 +25,4 @@
 
 * [House Guessers](https://www.instagram.com/houseguessers/?hl=en)
 * [Sting Eras Shirt](https://stingshirt.com/)
-* [Tableau Work](https://public.tableau.com/shared/KS2TBTYK3?:display_count=n&:origin=viz_share_li).
+* [Tableau Work](https://public.tableau.com/shared/6J4TFKPSS?:display_count=n&:origin=viz_share_link).
