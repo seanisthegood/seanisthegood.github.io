@@ -17,7 +17,7 @@ A web app that allows users to input a **setlist.fm username** and fetch attende
 - Runs a **YouTube search** to find relevant concert videos.  
 - Utilizes **multiple APIs** and performs **ETL** with a **Flask backend**.  
 - Built as a **single-page React app** with a dynamic and intuitive UI.
---
+  
 ### [Logarithms.org](https://www.logarithms.org/)
 A simple web app that helps **math students understand logarithms**.  
 - Uses the **ChatGPT API** to generate **logarithm explanations** in **plain language**.  
