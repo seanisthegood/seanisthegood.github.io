@@ -17,12 +17,22 @@ A web app that allows users to input a **setlist.fm username** and fetch attende
 - Runs a **YouTube search** to find relevant concert videos.  
 - Utilizes **multiple APIs** and performs **ETL** with a **Flask backend**.  
 - Built as a **single-page React app** with a dynamic and intuitive UI.
-
 ### [Logarithms.org](https://www.logarithms.org/)
 A simple web app that helps **math students understand logarithms**.  
 - Uses the **ChatGPT API** to generate **logarithm explanations** in **plain language**.  
 - Designed for **students unfamiliar with logarithmic notation and syntax**.  
 - Built using **Flask and React** for a clean and responsive experience.
+
+---
+## 🔐 Cybersecurity Projects
+
+### 📊 Splunk SIEM - Failed Login Detection
+Built a **Security Information & Event Management (SIEM)** solution using **Splunk** to monitor and analyze failed login attempts.
+
+- Set up **Splunk in Docker** to collect and analyze security logs.  
+- Simulated **failed SSH logins and brute-force attacks**.  
+- Created **Splunk queries** to detect suspicious login activity.  
+- Automated **alerts for repeated failed logins**.
 
 ---
 
@@ -41,10 +51,6 @@ A simple web app that helps **math students understand logarithms**.
 ---
 
 ## 🎯 Personal Projects
-*(Coming Soon – Always Building! 🚀)*
-
-
-## Personal Projects
 
 * [House Guessers](https://www.instagram.com/houseguessers/?hl=en)
 * [Sting Eras Shirt](https://stingshirt.com/)
