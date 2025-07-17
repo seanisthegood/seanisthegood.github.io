@@ -52,7 +52,6 @@ Built a **Security Information & Event Management (SIEM)** solution using **Splu
 ---
 
 ## 🎯 Personal Projects
-
+* [Tableau Work](https://public.tableau.com/app/profile/sean.hart4118/vizzes)
 * [House Guessers](https://www.instagram.com/houseguessers/?hl=en)
 * [Sting Eras Shirt](https://stingshirt.com/)
-* [Tableau Work]([https://public.tableau.com/shared/6J4TFKPSS?:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/sean.hart4118/vizzes)).
