@@ -1,15 +1,25 @@
 # A Data Guy
 
-🚀 **Technical Skills:** Python, Pandas, SQL, PHP, Flask, C++, Java, JavaFX, Google AppScripts  
+🚀 **Technical Skills:** Python, Pandas, SQL, PHP, Flask, C++, Javas  
 
 ---
 
 ## 📚 Education
-- **LaGuardia Community College** *(Computer Science, GPA: 3.97)*
+- **Baruch College (Financial Math) Expected Graduation 2027**
+- **LaGuardia Community College Associates Bachelor's of Science** *(Computer Science, GPA: 3.91)*
 - **Flatiron School** *(Data Science Bootcamp)*  
 - **Upright Citizens Brigade** *(Improv & Comedy Writing)*  
 
 ---
+## 💵 Finance Projects
+### [Bond Yield Exploration](https://github.com/seanisthegood/bondproj)
+This project explores U.S. Treasury yields and spreads using data from the FRED API . 
+It starts with a Jupyter Notebook for fetching and visualizing yields, then builds toward a lightweight ETL pipeline and dashboard.
+### [Basic Pattern Backtester](https://github.com/seanisthegood/stock_project/tree/main)
+- Ingests stock and ETF ticker symbols
+- Implements a basic pattern backtesting workflow
+- Generates candlestick charts for selected securities
+- Provides a foundation for experimenting with technical analysis strategies
 
 ## 💻 Data Apps
 ### [I Was There](https://setlistcomp-038fdfda1f06.herokuapp.com/)
