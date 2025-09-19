@@ -1,6 +1,6 @@
 title: Sean Hart's Projcet One Page
 logo: /assets/img/profile.jpeg
 description: These projects are my sandbox — ideas I’m playing with, learning from, and iterating on. Some are rough, some have limited polish, but each reflects something I was curious to try. Feedback is welcome, and I hope they show how I think through problems more than how perfect the final product is.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
